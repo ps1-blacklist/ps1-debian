@@ -1,5 +1,7 @@
 #!/bin/bash
 
+clear
+
 cd "$(dirname "$0")" || exit 1
 
 # banner
