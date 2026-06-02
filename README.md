@@ -40,6 +40,15 @@
   <b>🚀 An elite, containerized Termux environment builder engineered to deploy a rootless Debian Linux distribution with native X11 graphical rendering, hardware acceleration, and seamless automated orchestration.</b>
 </p>
 
+<!-- Live GUI Preview Showcase (1000390138.jpg / Screenshot_20260602-175230.jpg) -->
+<p align="center">
+  <br />
+  <img src="https://raw.githubusercontent.com/ps1-blacklist/ps1-debian/main/Screenshot_20260602-175230.jpg" alt="Termux Debian X11 Desktop Environment Interface Preview" width="100%" style="border-radius: 8px; border: 2px solid #00FF87;">
+  <br />
+  <sub><i>Live demonstration of the compiled rootless XFCE4 desktop ecosystem running inside Termux-X11</i></sub>
+  <br />
+</p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Divider" width="100%">
 </p>
