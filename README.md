@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/github/issues/ps1-blacklist/ps1-debian?style=for-the-badge&color=ff416c&logo=github&logoColor=black" alt="Issues">
   </a>
   <a href="https://github.com/ps1-blacklist/ps1-debian" target="_blank">
-    <img src="https://img.shields.io/badge/License-MIT-f9d423?style=for-the-badge&logo=github&logoColor=black" alt="License">
+    <img src="https://img.shields.io/badge/CC_BY-ND_4.0-f9d423?style=for-the-badge&logo=github&logoColor=black" alt="License">
   </a>
 </p>
 
