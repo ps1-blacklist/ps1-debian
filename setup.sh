@@ -48,4 +48,3 @@ clear
 # banner .
 bash banner/banner.sh
 bash end/use.sh
-source .bashrc
